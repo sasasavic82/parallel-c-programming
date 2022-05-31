@@ -35,9 +35,7 @@ gcc -fopenmp -o omp omp.c
 
 The Message Passing Interface (MPI) is a standard for implementing parallel programming in C (and in other languages).
 
-It enables the management of allocation, comms, and syncrhonisation of processes mapped on multiple nodes. The nodes can be cores within a CPU, CPUs within a machine or across machines
-
-The MPI interface allows you to manage allocation, communication, and synchronization of a set of processes that are mapped onto multiple nodes, where each node can be a core within a single CPU, or CPUs within a single machine, or even across multiple machines that are networked.
+It enables the management of allocation, comms, and syncrhonisation of processes mapped on multiple nodes. The nodes can be cores within a CPU, CPUs within a machine or across multiple machines that are networked.
 
 If you are wanting to write super-fast ML training in C, this is where MPI can shine.
 
