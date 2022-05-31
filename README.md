@@ -1,5 +1,6 @@
-# Parellel programming in C
+# C Parallel Programming
 
+Bunch of C examples for multi-threaded and paralell programming.
 ## Threads (POSIX Threads - PThreads)
 
 POSIX Threads (Pthreads) is a "threads programmin" standard, that defines C types, functions and constants.
