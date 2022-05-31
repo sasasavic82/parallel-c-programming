@@ -31,7 +31,7 @@ gcc -fopenmp -o omp omp.c
 ```
 
 
-## MPI
+## MPI (Message Passing Interface)
 
 The Message Passing Interface (MPI) is a standard for implementing parallel programming in C (and in other languages).
 
